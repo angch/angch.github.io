@@ -4,3 +4,6 @@
 
  * [multibot](https://github.com/angch/multibot)
 
+## Go links and thoughts
+
+ * [2024-06-18: Go's upcoming range-able iterator functions](https://angch.com/go.html)
